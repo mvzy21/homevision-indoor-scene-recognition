@@ -1,0 +1,21 @@
+# Data — not ours to redistribute
+*.zip
+indoorCVPR_09/
+indoorCVPR_09annotations/
+data/
+
+# Model artefacts
+*.keras
+*.h5
+*.tflite
+*.weights.h5
+
+# Course materials
+*Lecture*
+*.pptx
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
